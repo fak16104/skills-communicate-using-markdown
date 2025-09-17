@@ -15,7 +15,4 @@ implicit none
 var myVar = "Hello, world!";
 ```
 
-used different headers
-
-
-
+used different headers and code blocks
